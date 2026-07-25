@@ -1,0 +1,29 @@
+{
+  "html_text": [
+    "<script>window.__xsshunter_hit=true</script>",
+    "<img src=x onerror=\"window.__xsshunter_hit=true\">",
+    "<svg onload=\"window.__xsshunter_hit=true\">"
+  ],
+  "html_attribute": [
+    "\" onmouseover=\"window.__xsshunter_hit=true\" x=\"",
+    "\" autofocus onfocus=\"window.__xsshunter_hit=true\" x=\"",
+    "'><script>window.__xsshunter_hit=true</script>"
+  ],
+  "html_attribute_noquote": [
+    " onmouseover=window.__xsshunter_hit=true x=",
+    " autofocus onfocus=window.__xsshunter_hit=true x="
+  ],
+  "js_string": [
+    "';window.__xsshunter_hit=true;//",
+    "\";window.__xsshunter_hit=true;//",
+    "</script><script>window.__xsshunter_hit=true</script>"
+  ],
+  "js_code": [
+    ";window.__xsshunter_hit=true;",
+    "-window.__xsshunter_hit=true-"
+  ],
+  "url_context": [
+    "javascript:window.__xsshunter_hit=true",
+    "data:text/html,<script>window.__xsshunter_hit=true</script>"
+  ]
+}
