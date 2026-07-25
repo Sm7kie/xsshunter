@@ -21,7 +21,7 @@ For authorized testing only — your own apps, or targets you have explicit writ
 
 ## Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Sm7kie/xsshunter.git
 cd xsshunter
 pip install -r requirements.txt
 ```
